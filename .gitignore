@@ -448,3 +448,9 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+
+# Exclude build folders
+
+Cliente/build*
+Server/build*
