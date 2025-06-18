@@ -1,0 +1,3 @@
+C:/Users/gabri/OneDrive/Desktop/Pruebas y pruebas/C++/Windows Sockets/Server/build/CMakeFiles/Server.dir
+C:/Users/gabri/OneDrive/Desktop/Pruebas y pruebas/C++/Windows Sockets/Server/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/gabri/OneDrive/Desktop/Pruebas y pruebas/C++/Windows Sockets/Server/build/CMakeFiles/ZERO_CHECK.dir

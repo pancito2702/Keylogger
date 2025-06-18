@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\gabri\OneDrive\Desktop\Pruebas y pruebas\C++\Windows Sockets\Server\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\gabri\OneDrive\Desktop\Pruebas y pruebas\C++\Windows Sockets\Server\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{6EA8DDEB-0181-3E3E-9874-C97A79EF9556}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
